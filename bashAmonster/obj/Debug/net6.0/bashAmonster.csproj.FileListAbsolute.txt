@@ -1,0 +1,15 @@
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\obj\Debug\net6.0\bashAmonster.csproj.AssemblyReference.cache
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\obj\Debug\net6.0\bashAmonster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\obj\Debug\net6.0\bashAmonster.AssemblyInfoInputs.cache
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\obj\Debug\net6.0\bashAmonster.AssemblyInfo.cs
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\obj\Debug\net6.0\bashAmonster.csproj.CoreCompileInputs.cache
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\bin\Debug\net6.0\bashAmonster.exe
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\bin\Debug\net6.0\bashAmonster.deps.json
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\bin\Debug\net6.0\bashAmonster.runtimeconfig.json
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\bin\Debug\net6.0\bashAmonster.dll
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\bin\Debug\net6.0\bashAmonster.pdb
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\obj\Debug\net6.0\bashAmonster.dll
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\obj\Debug\net6.0\refint\bashAmonster.dll
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\obj\Debug\net6.0\bashAmonster.pdb
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\obj\Debug\net6.0\bashAmonster.genruntimeconfig.cache
+C:\Users\albin.lindqvist1\vs code prprpr\bashAmonster\bashAmonster\obj\Debug\net6.0\ref\bashAmonster.dll
